@@ -22,6 +22,7 @@
   },
   "homepage": "https://github.com/fredriklunde/cypress-testing-project#readme",
   "dependencies": {
-    "cypress": "^4.0.2"
+    "cypress": "^4.0.2",
+    "prettier": "^1.19.1"
   }
 }
