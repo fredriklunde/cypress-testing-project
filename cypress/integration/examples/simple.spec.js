@@ -1,14 +1,5 @@
-describe('My first simple test with cypress', () => {
-    it('true should be true', () => {
-        expect(true).to.equal(true)
-    })
-    it('5 should be 5', () => {
-        expect(5).to.equal(5)
-    })
-})
-
-describe('another test', () => {
-    it('false should be false', () => {
-        expect(false).to.equal(false)
+describe('browser actions', () => {
+    it('should load correct url', () => {
+        cy.visit('https://www.gp.se/')
     })
 })
