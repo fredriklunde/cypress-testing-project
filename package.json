@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/fredriklunde/cypress-testing-project/issues"
   },
-  "homepage": "https://github.com/fredriklunde/cypress-testing-project#readme"
+  "homepage": "https://github.com/fredriklunde/cypress-testing-project#readme",
+  "dependencies": {
+    "cypress": "^4.0.2"
+  }
 }
